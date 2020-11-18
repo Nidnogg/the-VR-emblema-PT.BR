@@ -4,7 +4,7 @@
 (Federal University of Rio de Janeiro) **class**
 
 ![Preview](https://i.imgur.com/AyHGeFf.png)
-## If you'd like to contribute, drop me your ![](thecyberart.net@gmail.com) as a pull request. 
+## If you'd like to contribute, drop me your ![e-mail](thecyberart.net@gmail.com) as a pull request. 
 
 # Below is a link for viewing the presentation and commenting.
 # [Link](http://slides.com/users/invitations/38c3c0dc55c79a7f) for ***VIEWING***.
