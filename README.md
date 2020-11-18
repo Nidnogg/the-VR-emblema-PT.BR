@@ -3,7 +3,7 @@
 
 (Federal University of Rio de Janeiro) **class**
 
-![http://slides.com/users/invitations/38c3c0dc55c79a7f](https://i.imgur.com/AyHGeFf.png)
+![https://i.imgur.com/AyHGeFf.png](http://slides.com/users/invitations/38c3c0dc55c79a7f)
 ## If you'd like to contribute, drop me your ![e-mail](thecyberart.net@gmail.com) as a pull request. 
 
 # Below is a link for viewing the presentation and commenting.
